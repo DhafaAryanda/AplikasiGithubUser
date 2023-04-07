@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="github_welcome">Selamat Datang di Github User App</string>
+    <string name="no_github_userdata">Tidak Ada Data User Github</string>
+    <string name="no_data">Tidak Ada Data</string>
+    <string name="username">Username</string>
+    <string name="search">search</string>
+    <string name="search_user_hint">Ketik Username Disini</string>
+    <string name="user_id">id : %s</string>
+    <string name="following">%d</string>
+    <string name="followers">%d</string>
+    <string name="list_follow_followers">List %1$s %2$s</string>
+    <string name="detail_user">Detail User</string>
+    <string name="no_following">Tidak ada Following</string>
+    <string name="no_followers">Tidak ada Followers</string>
+    <string name="no_name">Tidak ada Nama</string>
+    <string name="no_bio">Tidak ada Bio</string>
+    <string name="following_example">8 Following</string>
+    <string name="followers_example">5 Followers</string>
+    <string name="github_logo">logo github</string>
+    <string name="settings">Settings</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="favorite">favorite</string>
+    <string name="favorite_user">Favorite User</string>
+    <string name="no_favorite_users">Tidak Ada Favorite User</string>
+    <string name="remove_favorite_user">Removed to Favorite Users</string>
+    <string name="add_favorite_user">Added to Favorite Users</string>
+    <string name="favorite_user_list">Favorite User List</string>
+    <string name="favorite_user_list_empty">Favorite User List Empty</string>
+    <string name="no_location">Tidak ada Lokasi</string>
+    <string name="name">Nama Lengkap</string>
+    <string name="bio">Bio</string>
+    <string name="location">Lokasi</string>
+    <string name="company">Company</string>
+
+</resources>
